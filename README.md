@@ -1,0 +1,6 @@
+-   ALL FETCHES (HOOKS, REDUX, ASYNCTHUNK, REACTQUERY...) ==> GEPREPTS
+-   REDUX ==> GEPREPTS
+-   AUTHORIZATION (REDUX, ROUTER, STRUCTURE, INDEX) ==> BLOXHW
+-   INFSCROLL (ELECTRON, HOOKS(page, search), TABLE) ==>GK8HWNL
+-   PAGINATION (TABLE, HOOKS(page, search)) ==> BOND-S
+-   REF (useRef advanced, compile script for jsonDB, compile module css) ==> GOTECH
